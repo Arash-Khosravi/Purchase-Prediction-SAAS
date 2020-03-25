@@ -24,3 +24,8 @@
 # Purchase elasticity of each segment
 
 ![](images/segment-elasticity.png)
+-----------------------------
+
+# Price elasticity of purchase quntity
+
+![](images/purchase quantity.png)
