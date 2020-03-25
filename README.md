@@ -28,4 +28,4 @@
 
 # Price elasticity of purchase quntity
 
-![](images/purchase quantity.png)
+![](images/purchase-quantity.png)
